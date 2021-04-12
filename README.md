@@ -20,4 +20,14 @@ import pandas as pd
 
 import statsmodels.api as sm;
 
+import plotly.plotly as py
+
+import plotly.graph_objs as go
+
+from matplotlib import pylab
+
+from numpy import arange,array,ones
+
+from scipy import stats
+
 import warnings
