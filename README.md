@@ -46,7 +46,7 @@ Non-constant variance can be assessed again using a plot of the residuals by the
 
 Though the text does not discuss normality of the residuals, this is an important assumption of regression if you are interested in creating reliable confidence intervals. More on this topic is provided https://www.itl.nist.gov/div898/handbook/pri/section2/pri24.htm
 
-**Outliers/Leverage Points**
+**Outliers/Leverage Points*
 
 Outliers and leverage points are points that lie far away from the regular trends of your data. These points can have a large influence on your solution. In practice, these points might even be typos. If you are aggregating data from multiple sources, it is possible that some of the data values were carried over incorrectly or aggregated incorrectly.
 
@@ -60,7 +60,6 @@ Multicollinearity exists whenever an independent variable is highly correlated w
 
 One of the most common ways to identify multicollinearity is with bivariate plots or with variance inflation factors (or VIFs). 
 
-Heteroscedasticity means unequal scatter
 **Libraries:** 
 
 import numpy as np
