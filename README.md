@@ -58,7 +58,7 @@ Multicollinearity is when we have predictor variables that are correlated with o
 
 Multicollinearity exists whenever an independent variable is highly correlated with one or more of the other independent variables in a multiple regression equation. Multicollinearity is a problem because it undermines the statistical significance of an independent variable.
 
-One of the most common ways to identify multicollinearity is with bivariate plots or with variance inflation factors (or VIFs). 
+One of the most common ways to identify multicollinearity is with bivariate plots or with variance inflation factors (or VIFs). https://etav.github.io/python/vif_factor_python.html
 
 **Libraries:** 
 
